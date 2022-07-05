@@ -6,7 +6,7 @@ Website Building
 Checklist
 - This is a checklist
 
-To do list ... a different organization
+To do list 
 - [] this must be done still
 - [x] done
 - [] this must be done still
